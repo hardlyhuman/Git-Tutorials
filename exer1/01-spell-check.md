@@ -1,1 +1,1 @@
-Dis iz a neu github repo. Dere r sum documentation bugz. Help needed. Thenk iu.
+this is a new github repository. ther are some documentation bugz. help needed. thank you.

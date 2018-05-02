@@ -2,7 +2,6 @@
 
 
 def multiply(a,b):
-
     return a+b
 
 a1=int(input())

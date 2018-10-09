@@ -1,1 +1,2 @@
-Dis iz a neu github repo. Dere r sum documentation bugz. Help needed. Thenk iu.
+this is a new github report. there are some documentation bugs. help needed. thank you.
+This is very new and interesting one as git allows us to do commit and clone and merge and many more.

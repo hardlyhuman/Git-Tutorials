@@ -1,1 +1,5 @@
-Dis iz a neu github repo. Dere r sum documentation bugz. Help needed. Thenk iu.
+#Documentation
+This is a the Documentation for Git-Tutorial exercise 1.
+
+##Rules
+There are no rules feel free to add or change anything here.

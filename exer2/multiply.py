@@ -1,9 +1,13 @@
 # The objective of this program is to multiply two input numbers
 
 
-def multiply(a,b):
+def multiply(*args):
+    a = args
+    res = 1
+    for ele in a:
+        res *= ele
 
-    return a*b
+    return res
 
 a1=int(input())
 a2=int(input())

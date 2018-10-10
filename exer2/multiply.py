@@ -3,7 +3,7 @@
 
 def multiply(a,b):
 
-    return a+b
+    return b*a
 
 a1=int(input())
 a2=int(input())
